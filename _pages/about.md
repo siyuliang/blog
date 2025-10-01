@@ -8,9 +8,9 @@ nav_order: 2
 
 **lost in translation** is a space where I share thoughts on language, travel, and everything in between. 
 
-In my daily life, I work with computers and speech. This blog is where I explore the human side of language: moments of miscommunication, cultural encounters, and unexpected insights that come from moving between worlds.
+In my daily life, I work with computers and speech signals. This blog is where I explore the human side of language: moments of miscommunication, cultural encounters, and unexpected connections that come from moving between worlds.
 
-Here you'll find my reflections on fieldwork, travel stories, language learning, and occasional thoughts I've had along the way.
+Here you'll find my travel stories, language learning, reflections on fieldwork, and occasional thoughts I've had along the way.
 
 
 
