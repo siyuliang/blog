@@ -23,3 +23,39 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Right-aligned pull quote
+.pullquote-right {
+  float: right;
+  width: 40%;
+  margin: 0 0 1em 2em;
+  padding: 1em;
+  font-size: 1.3em;
+  line-height: 1.4;
+  font-style: italic;
+  border-left: 4px solid var(--global-theme-color);
+  background-color: var(--global-bg-color);
+}
+
+// Left-aligned pull quote
+.pullquote-left {
+  float: left;
+  width: 40%;
+  margin: 0 2em 1em 0;
+  padding: 1em;
+  font-size: 1.3em;
+  line-height: 1.4;
+  font-style: italic;
+  border-right: 4px solid var(--global-theme-color);
+  background-color: var(--global-bg-color);
+}
+
+@media (max-width: 768px) {
+  .pullquote-right, .pullquote-left {
+    float: none;
+    width: 100%;
+    margin: 1.5em 0;
+    border-left: 4px solid var(--global-theme-color);
+    border-right: none;
+  }
+}
