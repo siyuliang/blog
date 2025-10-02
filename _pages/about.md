@@ -10,7 +10,7 @@ nav_order: 2
 
 In my daily life, I work with computers and speech signals. This blog is where I explore the human side of language: moments of miscommunication, cultural encounters, and unexpected connections that come from moving between worlds.
 
-Here you'll find my travel stories, language learning, reflections on fieldwork, and occasional thoughts I've had along the way.
+Here you'll find my travel stories, language learning experiences, reflections on fieldwork, and the occasional thoughts I've had along the way.
 
 
 
