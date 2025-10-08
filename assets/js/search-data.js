@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/blog/";
+            window.location.href = "/blog/index.html";
           },
         },{id: "nav-about",
           title: "about",
@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/blog/2025/post/";
+            window.location.href = "/blog/2025/finding-siyu/";
           
         },
       },{
