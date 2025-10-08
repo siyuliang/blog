@@ -1,6 +1,8 @@
 ---
 layout: post
 title: finding Siyu
+redirect_from:
+  - /blog/2025/post/
 date: 2025-10-01 10:00:00
 description: chasing a coincidence on the East African coast
 tags: kenya
